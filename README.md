@@ -60,7 +60,7 @@
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,claude,mysql, mongodb, python,git,github,vscode,figma&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,claude,git,github,vscode,figma&perline=10" alt="Tech stack" />
 </div>
 
 <br />
