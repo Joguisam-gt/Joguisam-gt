@@ -1,16 +1,141 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="José Rodríguez - Desarrollador Junior Fullstack & AI Specialist" width="100%" />
+</div>
 
-<!--
-**Joguisam-gt/Joguisam-gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/tu-usuario">
+    <img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://github.com/tu-usuario?tab=repositories">
+    <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=tu-usuario&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hola, soy José Rodríguez</h1>
+
+<p align="center">
+  <strong>Desarrollador Junior Fullstack | Especializándome en IA y Soluciones Web</strong>
+  <br />
+  Desarrollador Fullstack centrado en la construcción de aplicaciones web dinámicas, integración de herramientas de inteligencia artificial y automatización de procesos. Enfocado en la escritura de código modular, limpio y bien documentado.
+</p>
+
+<div align="center">
+  <a href="https://github.com/tu-usuario">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=Frontend+con+HTML+CSS+JavaScript+y+React;Backend+con+Node.js+Express+y+Bases+de+Datos;Integracion+de+IA+y+Automatizacion;Codigo+Limpio+y+Proyectos+Estructurados" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+## Que hago
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Desarrollo Web Fullstack, Inteligencia Artificial, Automatización</h3>
+      <p>Desarrollo de interfaces dinámicas y adaptables</p>
+    </td>
+    <td width="50%">
+      <h3>Proyectos y soluciones</h3>
+      <p>Construcción de APIs REST con Node.js y Express</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Trabajo tecnico</h3>
+      <p>Modelado y gestión de bases de datos relacionales y no relacionales</p>
+    </td>
+    <td width="50%">
+      <h3>Aprendizaje continuo</h3>
+      <p>Implementación de lógica clara, modular y mantenible</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stack principal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,claude,mysql, mongodb, python,git,github,vscode,figma&perline=10" alt="Tech stack" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-Stack-1f2937?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Stack-1f2937?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/Data-Databases-1f2937?style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/Tools-Workflow-1f2937?style=flat-square" alt="Tools" />
+</div>
+
+---
+
+## Areas de enfoque
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Frontend</h3>
+      <p>HTML5, CSS3, JavaScript (ES6+), React</p>
+    </td>
+    <td width="33%">
+      <h3>Backend y datos</h3>
+      <p>Node.js, Express.js, Python<br /> MySQL, Supabase</p>
+    </td>
+    <td width="33%">
+      <h3>Herramientas</h3>
+      <p>Git, GitHub, Figma, N8N, VS Code, Obsidian, Notion</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Proyectos destacados
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>acme-bank-cli</h3>
+      <p>Simulador interactivo de consola para gestión de cuentas bancarias y transacciones en quetzales (Q).</p>
+      <p><strong>Stack:</strong> Node.js, JavaScript, CLI</p>
+      <a href="https://github.com/tu-usuario/acme-bank-cli">Ver proyecto</a>
+    </td>
+    <td width="33%">
+      <h3>agencia-digital-portfolio</h3>
+      <p>Plataforma web enfocada en la exhibición de servicios visuales, diseño y soluciones de desarrollo.</p>
+      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, React</p>
+      <a href="https://github.com/tu-usuario/agencia-digital-portfolio">Ver proyecto</a>
+    </td>
+    <td width="33%">
+      <h3>ai-mentor-assistant</h3>
+      <p>Asistente conversacional optimizado para la orientación y revisión de código en entornos Fullstack.</p>
+      <p><strong>Stack:</strong> Python, Prompt Engineering, Node.js</p>
+      <a href="https://github.com/tu-usuario/ai-mentor-assistant">Ver proyecto</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Actividad en GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=tu-usuario&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+</div>
+
+---
+
+## Como trabajo
+
+```txt
+Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
