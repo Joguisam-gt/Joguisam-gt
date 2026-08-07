@@ -100,22 +100,22 @@
 <table>
   <tr>
     <td width="33%">
-      <h3>acme-bank-cli</h3>
-      <p>Simulador interactivo de consola para gestión de cuentas bancarias y transacciones en quetzales (Q).</p>
-      <p><strong>Stack:</strong> Node.js, JavaScript, CLI</p>
-      <a href="https://github.com/tu-usuario/acme-bank-cli">Ver proyecto</a>
+      <h3>Vendedor de bolestos</h3>
+      <p>Conciertos Conectados es una plataforma web integral diseñada para la gestión y venta de entradas a eventos musicales y culturales.</p>
+      <p><strong>Stack:</strong> HTML, JavaScript, CSS</p>
+      <a href=https://github.com/Joguisam-gt/Proyecto_Conciertos_RodriguezJose">Ver proyecto</a>
     </td>
     <td width="33%">
-      <h3>agencia-digital-portfolio</h3>
-      <p>Plataforma web enfocada en la exhibición de servicios visuales, diseño y soluciones de desarrollo.</p>
-      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, React</p>
-      <a href="https://github.com/tu-usuario/agencia-digital-portfolio">Ver proyecto</a>
+      <h3>Stream Music App</h3>
+      <p>Plataforma web enfocada en la exhibición de un marketplace streaming de musica tipo spotify.</p>
+      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript </p>
+      <a href="https://github.com/Joguisam-gt/Proyecto_Stream_Music_App_Jose_Rodriguez">Ver proyecto</a>
     </td>
     <td width="33%">
-      <h3>ai-mentor-assistant</h3>
-      <p>Asistente conversacional optimizado para la orientación y revisión de código en entornos Fullstack.</p>
-      <p><strong>Stack:</strong> Python, Prompt Engineering, Node.js</p>
-      <a href="https://github.com/tu-usuario/ai-mentor-assistant">Ver proyecto</a>
+      <h3>Campus Parking</h3>
+      <p>Arquitectura base de datos noSQL basada en MongoDB para la aplicacion</p>
+      <p><strong>Stack:</strong> MongoDB, JavaScript</p>
+      <a href="https://github.com/Joguisam-gt/Proyecto_MongoDBII_RodriguezJose">Ver proyecto</a>
     </td>
   </tr>
 </table>
@@ -135,7 +135,3 @@
 
 ---
 
-## Como trabajo
-
-```txt
-Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
