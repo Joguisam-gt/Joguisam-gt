@@ -100,10 +100,10 @@
 <table>
   <tr>
     <td width="33%">
-      <h3>Vendedor de bolestos</h3>
+      <h3>Vendedor de boletos</h3>
       <p>Conciertos Conectados es una plataforma web integral diseñada para la gestión y venta de entradas a eventos musicales y culturales.</p>
       <p><strong>Stack:</strong> HTML, JavaScript, CSS</p>
-      <a href=https://github.com/Joguisam-gt/Proyecto_Conciertos_RodriguezJose">Ver proyecto</a>
+      <a href="https://github.com/Joguisam-gt/Proyecto_Conciertos_RodriguezJose">Ver proyecto</a>
     </td>
     <td width="33%">
       <h3>Stream Music App</h3>
