@@ -1,30 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="José Rodríguez - Desarrollador Junior Fullstack & AI Specialist" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="José Rodríguez - Desarrollador Junior Fullstack" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/tu-usuario">
+  <a href="https://github.com/Joguisam-gt">
     <img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
   </a>
-  <a href="https://github.com/tu-usuario?tab=repositories">
+  <a href="https://github.com/Joguisam-gt?tab=repositories">
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Joguisam-gt&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
 </div>
 
 <h1 align="center">Hola, soy José Rodríguez</h1>
 
 <p align="center">
-  <strong>Desarrollador Junior Fullstack | Especializándome en IA y Soluciones Web</strong>
+  <strong>Desarrollador Junior Fullstack | Soluciones Web y Modelado de Datos</strong>
   <br />
-  Desarrollador Fullstack centrado en la construcción de aplicaciones web dinámicas, integración de herramientas de inteligencia artificial y automatización de procesos. Enfocado en la escritura de código modular, limpio y bien documentado.
+  Desarrollador Fullstack centrado en la construcción de aplicaciones web dinámicas, integración de herramientas digitales y automatización de procesos. Enfocado en la escritura de código modular, limpio y bien documentado.
 </p>
 
 <div align="center">
-  <a href="https://github.com/tu-usuario">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=Frontend+con+HTML+CSS+JavaScript+y+React;Backend+con+Node.js+Express+y+Bases+de+Datos;Integracion+de+IA+y+Automatizacion;Codigo+Limpio+y+Proyectos+Estructurados" alt="Typing SVG" />
+  <a href="https://github.com/Joguisam-gt">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=Frontend+con+HTML+CSS+JavaScript+y+React;Backend+con+Node.js+y+Bases+de+Datos;Integracion+de+Herramientas+y+Automatizacion;Codigo+Limpio+y+Proyectos+Estructurados" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,17 +35,17 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>Desarrollo Web Fullstack, Inteligencia Artificial, Automatización</h3>
+      <h3>Desarrollo Web Fullstack y Automatización</h3>
       <p>Desarrollo de interfaces dinámicas y adaptables</p>
     </td>
     <td width="50%">
       <h3>Proyectos y soluciones</h3>
-      <p>Construcción de APIs REST con Node.js y Express</p>
+      <p>Construcción de APIs REST y lógica de servidor con Node.js</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Trabajo tecnico</h3>
+      <h3>Trabajo técnico</h3>
       <p>Modelado y gestión de bases de datos relacionales y no relacionales</p>
     </td>
     <td width="50%">
@@ -60,7 +60,7 @@
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,claude,git,github,vscode,figma&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,claude,git,github,vscode,figma&perline=10" alt="Tech stack" />
 </div>
 
 <br />
@@ -84,7 +84,7 @@
     </td>
     <td width="33%">
       <h3>Backend y datos</h3>
-      <p>Node.js, Express.js, Python<br /> MySQL, Supabase</p>
+      <p>Node.js, Python<br /> MySQL, MongoDB, Supabase</p>
     </td>
     <td width="33%">
       <h3>Herramientas</h3>
@@ -108,12 +108,12 @@
     <td width="33%">
       <h3>Stream Music App</h3>
       <p>Plataforma web enfocada en la exhibición de un marketplace streaming de musica tipo spotify.</p>
-      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript </p>
+      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript</p>
       <a href="https://github.com/Joguisam-gt/Proyecto_Stream_Music_App_Jose_Rodriguez">Ver proyecto</a>
     </td>
     <td width="33%">
       <h3>Campus Parking</h3>
-      <p>Arquitectura base de datos noSQL basada en MongoDB para la aplicacion</p>
+      <p>Arquitectura base de datos noSQL basada en MongoDB para la aplicación.</p>
       <p><strong>Stack:</strong> MongoDB, JavaScript</p>
       <a href="https://github.com/Joguisam-gt/Proyecto_MongoDBII_RodriguezJose">Ver proyecto</a>
     </td>
@@ -125,13 +125,10 @@
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=tu-usuario&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joguisam-gt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Joguisam-gt&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joguisam-gt&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
 </div>
-
----
-
