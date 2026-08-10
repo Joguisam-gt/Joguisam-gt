@@ -60,7 +60,7 @@
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,claude,git,github,vscode,figma&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,git,github,vscode,figma&perline=10" alt="Tech stack" />
 </div>
 
 <br />
@@ -116,6 +116,12 @@
       <p>Arquitectura base de datos noSQL basada en MongoDB para la aplicación.</p>
       <p><strong>Stack:</strong> MongoDB, JavaScript</p>
       <a href="https://github.com/Joguisam-gt/Proyecto_MongoDBII_RodriguezJose">Ver proyecto</a>
+    </td>
+    <td width="33%">
+      <h3>Campus Inventario Gamer</h3>
+      <p>Arquitectura en Node.js con conexion nativa con MongoDB.</p>
+      <p><strong>Stack:</strong> NodeJS, MongoDB</p>
+      <a href="https://github.com/Joguisam-gt/campus-inventario-gamer">Ver proyecto</a>
     </td>
   </tr>
 </table>
