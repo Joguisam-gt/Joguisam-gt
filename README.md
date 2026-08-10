@@ -106,12 +106,6 @@
       <a href="https://github.com/Joguisam-gt/Proyecto_Conciertos_RodriguezJose">Ver proyecto</a>
     </td>
     <td width="33%">
-      <h3>Stream Music App</h3>
-      <p>Plataforma web enfocada en la exhibición de un marketplace streaming de musica tipo spotify.</p>
-      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript</p>
-      <a href="https://github.com/Joguisam-gt/Proyecto_Stream_Music_App_Jose_Rodriguez">Ver proyecto</a>
-    </td>
-    <td width="33%">
       <h3>Campus Parking</h3>
       <p>Arquitectura base de datos noSQL basada en MongoDB para la aplicación.</p>
       <p><strong>Stack:</strong> MongoDB, JavaScript</p>
