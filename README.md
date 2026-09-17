@@ -130,5 +130,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joguisam-gt&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joguisam-gt&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution graph" width="98%" />
 </div>
